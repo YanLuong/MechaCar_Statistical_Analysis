@@ -79,7 +79,7 @@ briefly summarize your interpretation and findings for the t-test results. Inclu
 ### Results - T-test for each Lot:
 
 * The results for Lot 1 and Lot 2 have a p-value of less than 0.05 which show that there is a statistical significance and with them both being below the threshold of significance, we can reject the null hypthesis.
-*  
+* Lot 3 results has a p-value of 0.15 which indicate there is no statistical significance and evidence for the null hypothesis.
 
 | Lot1  | Lot 2  |  Lot 3 | 
 |---|---|---|
