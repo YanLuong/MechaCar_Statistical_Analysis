@@ -1,6 +1,6 @@
 # MechaCar Statistical Analysis
 
-#
+
 
 ## Linear Regression to Predict MPG - Del 1
 
