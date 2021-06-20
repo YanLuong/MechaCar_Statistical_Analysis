@@ -69,7 +69,9 @@ In the total summary, the results show a standard deviation of 7.9% and variance
 
 briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
-### Results - T-test for each Lot
+### Results - T-test for all Lots
+
+![all lots](https://github.com/YanLuong/MechaCar_Statistical_Analysis/blob/main/screenshots/sample_ttest_del3.png)
 
 
 ### Results - T-test for each Lot
