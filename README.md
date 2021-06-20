@@ -19,7 +19,7 @@ The slope of the linear model is not considered to be zero. The reason for this 
 
 ***Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?***
 
-This linear model does predict the mpg of MechaCar prototypes. The linear model has a multiple R-squared value of 0.71 or adjusted R-squared of 0.68. As both R-sqaured values are very close, we can use either one. The R-squared value show that 71% of the total variation in MPG can be explained by the regression.
+This linear model does predict the mpg of MechaCar prototypes. It helps to identify which variables contribute to the prediction of MPG. The linear model has a multiple R-squared value of 0.71 or adjusted R-squared of 0.68. Both R-sqaured values are very close matched so if we only consider the adjusted R-squared value, we can still say that there is a strong relationship with the dependent variable (MPG) and the independent variables. The adjusted R-squared value show that 68% of the total variation in MPG can be explained by the regression.
 
 ----
 
