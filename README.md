@@ -71,7 +71,7 @@ briefly summarize your interpretation and findings for the t-test results. Inclu
 
 ### Results - T-test for all Lots:
 
-* The results of the t-test that compares all manufacturing lots againsts the mean PSI of the population show that it is not statistically significant due to the p-value = 1. It also indicates that there is no statistical difference between the sample and population data as they both have the same mean.
+* The results of the t-test that compares all manufacturing lots againsts the mean PSI of the population show that it is not statistically significant due to the p-value = 1 and we fail to reject the null hypothesis. It also indicates that there is no statistical difference between the sample and population data as they both have the same mean.
 
 ![all lots](https://github.com/YanLuong/MechaCar_Statistical_Analysis/blob/main/screenshots/sample_ttest_del3.png)
 
