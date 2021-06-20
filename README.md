@@ -71,7 +71,7 @@ In the total summary, the results show a standard deviation of 7.9% and variance
 
 ### Results - T-test for all Lots:
 
-* The results of the t-test that compares all manufacturing lots againsts the mean PSI of the population show that it is not statistically significant due to the p-value = 1 and we fail to reject the null hypothesis. It also indicates that there is no statistical difference between the sample and population data as they both have the same mean.
+* The results of the t-test that compares all manufacturing lots againsts the mean PSI of the population show that it is not statistically significant due to the p-value = 1 and we fail to reject the null hypothesis. It also indicates that there is no statistical difference between the sample and population data as they both have the same mean. This may be overcome by using log10 or due to the sample/population size being too small.
 
 ![all lots](https://github.com/YanLuong/MechaCar_Statistical_Analysis/blob/main/screenshots/sample_ttest_del3.png)
 
