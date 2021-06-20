@@ -85,5 +85,5 @@ In the total summary, the results show a standard deviation of 7.9% and variance
 |---|---|---|
 |   ![1](https://github.com/YanLuong/MechaCar_Statistical_Analysis/blob/main/screenshots/lot1.png)|![2](https://github.com/YanLuong/MechaCar_Statistical_Analysis/blob/main/screenshots/lot2.png)   |![3](https://github.com/YanLuong/MechaCar_Statistical_Analysis/blob/main/screenshots/lot3.png)   |   
 
-
+#
 
