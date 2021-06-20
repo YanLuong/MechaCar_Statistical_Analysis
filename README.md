@@ -87,3 +87,6 @@ In the total summary, the results show a standard deviation of 7.9% and variance
 
 #
 
+## Study Design: MechaCar vs Competition
+
+
