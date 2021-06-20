@@ -4,7 +4,7 @@
 
 ## Linear Regression to Predict MPG - Del 1
 
-#### Results - Output of Multiple Linear Regression:
+### Results - Output of Multiple Linear Regression:
 
 ![linear regression](https://github.com/YanLuong/MechaCar_Statistical_Analysis/blob/main/screenshots/summary_linear_regression.png)
 
