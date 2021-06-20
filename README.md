@@ -8,7 +8,7 @@
 
 ![linear regression](https://github.com/YanLuong/MechaCar_Statistical_Analysis/blob/main/screenshots/summary_linear_regression.png)
 
-
+#
 ***Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?***
 
 At α=0.05, we can see that the variables 'vehicle length' and 'ground clearance' are statistically significant because their corresponding p-values is less than 0.05 (or indicated with '***' in output). This means that both variables are individually useful in predicting the MPG.
