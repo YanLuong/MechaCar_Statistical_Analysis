@@ -72,7 +72,7 @@ briefly summarize your interpretation and findings for the t-test results. Inclu
 
 | Lot1  | Lot 2  |  Lot 3 | 
 |---|---|---|
-|   |   |   |   
+|   ![1](https://github.com/YanLuong/MechaCar_Statistical_Analysis/blob/main/screenshots/lot1.png)|![2](https://github.com/YanLuong/MechaCar_Statistical_Analysis/blob/main/screenshots/lot2.png)   |![3](https://github.com/YanLuong/MechaCar_Statistical_Analysis/blob/main/screenshots/lot3.png)   |   
 |   |   |   | 
 |   |   |   | 
 
