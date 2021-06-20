@@ -69,6 +69,10 @@ In the total summary, the results show a standard deviation of 7.9% and variance
 
 briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
 
+### Results - T-test for each Lot
+
+
+### Results - T-test for each Lot
 
 | Lot1  | Lot 2  |  Lot 3 | 
 |---|---|---|
