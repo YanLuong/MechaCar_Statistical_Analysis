@@ -103,7 +103,9 @@ To measure and quantify how MechaCar performs against its competitors. I would p
   
 ##### * Data:
   
+  To perform this Anova test, we would need to collect city and highway fuel efficiency for all vehicles in MechaCar and the competition. We can further breakdown the data to include another level such as vehicle class (as row), if we wanted to narrow it down further.
   
+ 
 
 
 
