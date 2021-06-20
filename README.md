@@ -67,7 +67,7 @@ In the total summary, the results show a standard deviation of 7.9% and variance
 ----
 ## T-Tests on Suspension Coils
 
-briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+
 
 ### Results - T-test for all Lots:
 
