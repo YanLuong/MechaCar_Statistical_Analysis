@@ -89,4 +89,10 @@ In the total summary, the results show a standard deviation of 7.9% and variance
 
 ## Study Design: MechaCar vs Competition
 
+To measure and quantify how MechaCar performs against its competitors. I would perform the two way Anova test to compare the means of MechaCar and its competitors. As a consumer myself, one of the key metrics that I look for in car performance is fuel efficiency for city and highway so the key metrics to be tested in this study would be city fuel efficiency and highway fuel efficiency.
+
+##### Null Hypothesis and Alternative Hypothesis
+
+
+
 
