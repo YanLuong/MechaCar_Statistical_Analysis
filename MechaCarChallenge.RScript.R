@@ -24,10 +24,10 @@ SuspensionCoil_table <- read.csv(file = 'data/Suspension_Coil.csv')
 head(SuspensionCoil_table)
 
 # Summarize - step 3
-total_summary <- summarize(SuspensionCoil, Mean = mean(PSI), Median =median(PSI), Variance = var(PSI), SD = sd(PSI),.groups ='keep')
+total_summary <- summarize(SuspensionCoil_table, Mean = mean(PSI), Median =median(PSI), Variance = var(PSI), SD = sd(PSI),.groups ='keep')
 
 # Summarize and groupby by lot - step 4
-lot_summary <-SuspensionCoil %>% group_by(Manufacturing_Lot) %>% summarize(Mean = mean(PSI), Median =median(PSI), Variance = var(PSI), SD = sd(PSI),.groups ='keep')
+lot_summary <-SuspensionCoil_table %>% group_by(Manufacturing_Lot) %>% summarize(Mean = mean(PSI), Median =median(PSI), Variance = var(PSI), SD = sd(PSI),.groups ='keep')
 
 
 # ---------------- Deliverable 3 ----------------
@@ -55,3 +55,8 @@ t.test(x= lot_1$PSI,mu=mean(SuspensionCoil_table$PSI))
 t.test(x= lot_2$PSI,mu=mean(SuspensionCoil_table$PSI))
 t.test(x= lot_3$PSI,mu=mean(SuspensionCoil_table$PSI))
 
+
+# boxplot to visualise the lots
+
+plt <- ggplot(SuspensionCoil_table,aes(y=PSI, x=Manufacturing_Lot)) #import dataset into ggplot2
+plt + geom_boxplot()
