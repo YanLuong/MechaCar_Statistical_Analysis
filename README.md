@@ -14,7 +14,7 @@ At α=0.05, we can see that the variables 'vehicle length' and 'ground clearance
 
 ***Is the slope of the linear model considered to be zero? Why or why not?***
 
-The slope of the linear model is not considered to be zero. The reason for this is because the model shows that there is a significant relationship between MPG and the variables. This means that a significant proportion of variance can be attributed to MPG.
+The slope of the linear model is not considered to be zero. The reason for this is because the model shows that there is a significant relationship between MPG and the variables. This means that a significant proportion of variance can be attributed to MPG. If the slope of the linear model was zero then the r-value would show no significance.
 
 ***Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?***
 
