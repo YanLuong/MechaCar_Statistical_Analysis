@@ -98,6 +98,7 @@ To measure and quantify how MechaCar performs against its competitors. I would p
 ##### * Alternative Hypothesis:
 
   Ha1 : At least one of the means is different from the group which show that the means are not all equal in either MechaCar or its competitors in the city fuel efficiency metric.
+  
   Ha2 : At least one of the means is different from the group which show that the means are not all equal in either MechaCar or its competitors in the highway fuel efficiency metric.
   
 ##### * Data:
