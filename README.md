@@ -7,7 +7,6 @@
 
 ![linear regression](https://github.com/YanLuong/MechaCar_Statistical_Analysis/blob/main/screenshots/summary_linear_regression.png)
 
-In your README, create a subheading, ## Linear Regression to Predict MPG, and write a short summary using a screenshot of the output from the linear regression, and address the following questions:
 
 ***Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?***
 
