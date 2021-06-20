@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 
-## Linear Regression to Predict MPG - Del 1
+### Linear Regression to Predict MPG - Del 1
 
 In your README, create a subheading, ## Linear Regression to Predict MPG, and write a short summary using a screenshot of the output from the linear regression, and address the following questions:
 
