@@ -10,11 +10,13 @@ In your README, create a subheading, ## Linear Regression to Predict MPG, and wr
 
 ***Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?***
 
-At α=0.05, we can see that the variables 'vehicle length' and 'ground clearance' are statistically significant because their corresponding p-values is less than 0.05. This means that both variables are individually useful in predicting the MPG.
+At α=0.05, we can see that the variables 'vehicle length' and 'ground clearance' are statistically significant because their corresponding p-values is less than 0.05 (or indicated with '***' in output). This means that both variables are individually useful in predicting the MPG.
 
 ***Is the slope of the linear model considered to be zero? Why or why not?***
 
 ***Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?***
+
+This linear model does predict the mpg of MechaCar prototypes. The linear model has a multiple R-squared value of 0.71 or adjusted R-squared of 0.68. As both R-sqaured values are very close, we can use either one. The R-squared value show that 71% of the total variation in MPG can be explained by the regression.
 
 ----
 
