@@ -36,7 +36,7 @@ This linear model does predict the mpg of MechaCar prototypes. It helps to ident
 
 #
 
-### Results - Output of Total Summary and Lot Summary: 
+### Results - Output of Total Summary: 
 
 
 
@@ -45,6 +45,8 @@ This linear model does predict the mpg of MechaCar prototypes. It helps to ident
 
 
 #
+
+### Results - Output of Lot Summary:
 
 ![summary lot](https://github.com/YanLuong/MechaCar_Statistical_Analysis/blob/main/screenshots/lot_summary_del2.png)
 
