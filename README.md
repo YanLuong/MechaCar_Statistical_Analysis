@@ -81,6 +81,7 @@ In the total summary, the results show a standard deviation of 7.9% and variance
 
 ![all lots](https://github.com/YanLuong/MechaCar_Statistical_Analysis/blob/main/screenshots/sample_ttest_del3.png)
 
+#
 
 ### Results - T-test for each Lot:
 
