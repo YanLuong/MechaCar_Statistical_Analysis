@@ -2,7 +2,7 @@
 
 
 
-## Linear Regression to Predict MPG - Del 1
+## Linear Regression to Predict MPG
 
 ### Results - Output of Multiple Linear Regression:
 
