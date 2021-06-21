@@ -16,6 +16,8 @@
 
 At α=0.05, we can see that the variables 'vehicle length' and 'ground clearance' are statistically significant because their corresponding p-values is less than 0.05 (or indicated with '***' in output). This means that both variables are individually useful in predicting the MPG.
 
+
+
 ***Is the slope of the linear model considered to be zero? Why or why not?***
 
 The slope of the linear model is not considered to be zero. The reason for this is because the model shows that there is a significant relationship between MPG and the variables. If the slope of the linear model was zero then the r-value would be 0 to show no significance.
@@ -31,6 +33,8 @@ This linear model does predict the mpg of MechaCar prototypes. It helps to ident
 ***The summary statistics on suspension coils attempts to address the following question:***
 
 * The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not? 
+
+#
 
 ### Results - Output of Total Summary and Lot Summary: 
 
